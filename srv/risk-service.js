@@ -91,6 +91,8 @@ module.exports = cds.service.impl(async function () {
                     risk.bp = bp;
                 })
             );
-        } catch (error) { }
+        } catch (error) { 
+            
+        }
     });
 });
