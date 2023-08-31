@@ -14,7 +14,7 @@
     "@sap/cds": "^6",
     "@sap/cds-hana": "^2",
     "@sap/xssec": "^3",
-    "mbt": "^0.2.8",
+    "mbt": "^1.2.25",
     "passport": "^0"
   },
   "devDependencies": {
